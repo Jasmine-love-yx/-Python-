@@ -1,5 +1,5 @@
 # Comment-analysis
-毕业设计：基于python的电商产品评论数据情感分析
+毕业设计：基于Python的电商用户评论情感分析系统设计与实现
 
 ## 运行：
 `streamlit run ./Comment_analysis/Streamlit/streamlitEXP.py`
